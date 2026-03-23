@@ -108,8 +108,8 @@ public final class PaperBootstrap {
         envVars.put("REALITY_PORT", "443");
         envVars.put("ANYREALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
-        envVars.put("CHAT_ID", "8659218598");
-        envVars.put("BOT_TOKEN", "8659218598:AAG-ozJlUuDR8zpQJ1X9gTVJQabcwZsHln8");
+        envVars.put("CHAT_ID", "");
+        envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "cdns.doon.eu.org");
         envVars.put("CFPORT", "443");
         envVars.put("NAME", "");
